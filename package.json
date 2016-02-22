@@ -1,6 +1,6 @@
 {
   "name": "call-once-after-tick",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Enables multiple call-sites to enqueue a function call that will occur both asynchronously and only once per tick",
   "main": "lib/index.js",
   "scripts": {
