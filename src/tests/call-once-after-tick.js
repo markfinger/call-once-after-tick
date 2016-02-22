@@ -1,4 +1,4 @@
-import {assert} from '../utils/assert';
+import {assert} from './assert';
 import {callOnceAfterTick} from '../call-once-after-tick';
 
 describe('call-once-after-tick', () => {
